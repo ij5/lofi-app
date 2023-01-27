@@ -1,3 +1,1 @@
-# lofi-app
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nativescript-stackblitz-templates-28dolq)
+# 24/7 Lo-Fi music streaming app
